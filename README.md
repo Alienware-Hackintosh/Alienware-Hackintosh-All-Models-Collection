@@ -1,6 +1,8 @@
 # alienware hackintosh clover/opencore collection 
 # 外星人黑苹果clover/opencore收集
 
+# Update go to https://github.com/RockJesus/Alienware-Hackintosh
+
 [![Platform](https://img.shields.io/badge/platform-macOS-red.svg)](https://developer.apple.com/macos) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
 
 ![image](https://github.com/RockJesus/Alienware-17-R4-Dual-GPU-MacOS-Mojave-10.14-Hackintosh/blob/master/tony/30846964424404cb8b69890eb.jpg)
